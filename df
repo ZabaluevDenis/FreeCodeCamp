@@ -1,0 +1,295 @@
+[33mcommit 38a14b98dc46650c9cab79f8bb1da99dde06df82[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3176d35 baf6354
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sat May 28 15:08:57 2022 +0300
+
+    Merge branch 'main' of github.com:ZabaluevDenis/FreeCodeCamp
+
+[33mcommit 3176d35c40d899ee9394260a2f7a375b4a4dde67[m
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sat May 28 15:02:31 2022 +0300
+
+    Html 12
+
+[33mcommit baf63545a8d057dddd6f3032ae0d43f09252ea24[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Fri May 27 12:54:39 2022 +0300
+
+    hmtl 11
+
+[33mcommit 25caf12dfd5ec5a8a8e2b667a2b1f49a45275478[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 18:01:20 2022 +0300
+
+    hmtl 10
+
+[33mcommit 6c3b7512a0bbd5c39d96e07a9ed435b7ff6fbc4b[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:56:41 2022 +0300
+
+    hmtl 9
+
+[33mcommit fc505589ffe1b9da8462ac88255a5bf3afc13749[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:53:45 2022 +0300
+
+    hmtl 8
+
+[33mcommit 9588583ff80d3f7408deccc121d06fda7978384a[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:51:06 2022 +0300
+
+    hmtl 7
+
+[33mcommit 069e49f7f47036899d273b1e6aee235bbbe71d97[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:49:29 2022 +0300
+
+    html 6
+
+[33mcommit abb19713776a09e6327121b196d491ea2b5c83de[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:47:28 2022 +0300
+
+    html 5
+
+[33mcommit d4d4b42bc566f9d8897d3bb73bebcf9e2c2d4525[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:45:05 2022 +0300
+
+    html 4
+
+[33mcommit 8b43316a62a9ebc6dd36650a24e396787c6737a6[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:43:34 2022 +0300
+
+    html 3
+
+[33mcommit 99a07bb4a273d465a46351bd42af59098b03074e[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:42:13 2022 +0300
+
+    html 2
+
+[33mcommit 6c27e652966455dd8ed33ae33ae036f39957c2ff[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:40:12 2022 +0300
+
+    html 1
+
+[33mcommit bdb75670ba8835dc65061e8888397f103077ad27[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 17:14:46 2022 +0300
+
+    Добавление параметра по умолчанию в операторы Switch
+
+[33mcommit 463ed9e17b1a7e94d03fb0f0b715c968ae500d24[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 16:43:55 2022 +0300
+
+    Выбор из множества вариантов с операторами Switch
+
+[33mcommit 3a9610560f3b4fd10ae10a908e5ca11489890f69[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 16:24:20 2022 +0300
+
+    Гольф-код
+
+[33mcommit df1345f7d26b65c4d0c74ada4cf6f5e0c212e9b0[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 15:42:26 2022 +0300
+
+    Цепочка операторов If Else
+
+[33mcommit 958172c5aeab453367c5174f594feb7938db1f46[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Thu May 26 13:22:05 2022 +0300
+
+    Логический порядок в операторах If Else
+
+[33mcommit 82c27d778b9c97355f6a5638ec9898b828ab102b[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Wed May 25 17:51:51 2022 +0300
+
+    Знакомство с операторами Else If
+
+[33mcommit 5526aff574086c865751fe541e025e5c8cfb555e[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Wed May 25 17:45:52 2022 +0300
+
+    Знакомство с операторами Else
+
+[33mcommit 62341b6fe1a80eaccf47ea3cd1133bc060011837[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Wed May 25 16:20:03 2022 +0300
+
+    Сравнения с логическим оператором Or
+
+[33mcommit 000610988b129ecc049c82ab916edb7b3c038598[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Wed May 25 16:10:53 2022 +0300
+
+    Сравнения с логическим оператором И
+
+[33mcommit 1dbd00ec490f9d1632c66bea5e1070d206a162c7[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Wed May 25 15:31:20 2022 +0300
+
+    Сравнение с оператором меньше или равно
+
+[33mcommit c5a90ff1b6a5bd7478b41865ebaae254cf4d7aa2[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Wed May 25 15:17:55 2022 +0300
+
+    Сравнение с оператором меньше, чем
+
+[33mcommit 29903c6a56e3aba9e801c1a84ed78662864dbb19[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 16:32:37 2022 +0300
+
+    Сравнение с оператором больше или равно
+
+[33mcommit 054e728562b41041f226471bfb84bf384e6ff9c4[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 16:28:15 2022 +0300
+
+    Сравнение с оператором больше, чем
+
+[33mcommit 6180d894b023676a6d3cea4fe133657d323b7fde[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 16:19:30 2022 +0300
+
+    Сравнение с оператором строгого неравенства
+
+[33mcommit 428fdb34c5133b10fb0e310ddb0a0e34246b2638[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 16:03:31 2022 +0300
+
+    Сравнение с оператором неравенства
+
+[33mcommit 977c29b54aca28577f7f3e3ce837f2a1356e26bc[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 15:52:39 2022 +0300
+
+    Практика сравнения различных значений
+
+[33mcommit 156705aeb2ef8e00856ebc41cba58672ef56b29e[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 15:48:31 2022 +0300
+
+    Практика сравнения различных значений
+
+[33mcommit e98bf397a179fa2a9132225386062903615679d6[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 15:46:12 2022 +0300
+
+    Сравнение с оператором равенства
+
+[33mcommit 86aa7a2b1d55263c63875ba1812828b28cca0752[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 15:28:35 2022 +0300
+
+    Use Conditional Logic with If Statements
+
+[33mcommit 226817192b7b2b582ffb586ed99a324311555a79[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 15:19:24 2022 +0300
+
+    Understanding Boolean Values
+
+[33mcommit 28d11bda020b72e212391bdd82012b4a13c784d0[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 13:51:37 2022 +0300
+
+    test pub
+
+[33mcommit 734eabc1f4dade939634735dfaca562fa7928544[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 13:48:41 2022 +0300
+
+    les57
+
+[33mcommit fd3f682c2f173754fecfaddab5a6c5605b8d2c73[m
+Merge: 799a427 ed3ca1d
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 13:40:55 2022 +0300
+
+    Merge branch 'main' of github.com:ZabaluevDenis/FreeCodeCamp
+
+[33mcommit 799a427ac39fd0266934b8d6dc875ba397860187[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 13:37:24 2022 +0300
+
+    lesson 57
+
+[33mcommit 5caf1337bd39cd7aad0196119cb73e316cc4849e[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 13:35:45 2022 +0300
+
+    lesson 57
+
+[33mcommit a63414b068ce152d122da48954d883ea3a76ba01[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Tue May 24 13:09:01 2022 +0300
+
+    Stand in Line
+
+[33mcommit ed3ca1de3f632770873acc7c82fef4998a91abcb[m
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sun May 22 23:47:22 2022 +0300
+
+    Assignment with a Returned Value
+
+[33mcommit 9c590e0f1ee9d5ede07c3f79db24386e77516a79[m
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sun May 22 23:39:06 2022 +0300
+
+    Understanding Undefined Value returned from a Function
+
+[33mcommit d712d0632f77239d5d14b9091a1ea92edad65924[m
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sun May 22 23:28:51 2022 +0300
+
+    Global vs. Local Scope in Functions
+
+[33mcommit c486c2212a82cf200eb8e8444a938fdc42c85e65[m
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sun May 22 23:23:05 2022 +0300
+
+    Local Scope and Functions
+
+[33mcommit 069f790649516a0bcfdf6a2e29a319bbf534a162[m
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sun May 22 21:59:41 2022 +0300
+
+    test2
+
+[33mcommit 69be49aa9b573f0811edc48a06c4eff2f1e54d8a[m
+Author: ZabaluevDenis <buket24.by@gmail.com>
+Date:   Sun May 22 21:57:37 2022 +0300
+
+    test
+
+[33mcommit 7a1dcb787d7390c54cf77f179ce7a7ca93cc2610[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Fri May 20 17:17:46 2022 +0300
+
+    Global Scope and Functions
+
+[33mcommit 241a710c016a4bb5083e58a87003f1ec77ec2a45[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Fri May 20 16:21:31 2022 +0300
+
+    Function with return
+
+[33mcommit 9e98e345747a3e63e975900bfeb3d69f22b5b4dc[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Fri May 20 15:57:55 2022 +0300
+
+    Goga
+
+[33mcommit b1010536510e5a56a16449fbdbfc0569eac44f89[m
+Author: Денис <105744153+ZabaluevDenis@users.noreply.github.com>
+Date:   Wed May 18 15:12:32 2022 +0300
+
+    Initial commit
